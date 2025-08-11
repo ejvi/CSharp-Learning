@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UnityHub\\Noodles\\Arrays\\Arrays.csproj": {}
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "D:\\UnityHub\\Noodles\\Arrays\\Arrays.csproj": {
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UnityHub\\Noodles\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "D:\\UnityHub\\Noodles\\Arrays\\Arrays.csproj",
+        "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-        "outputPath": "D:\\UnityHub\\Noodles\\Arrays\\obj\\",
+        "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

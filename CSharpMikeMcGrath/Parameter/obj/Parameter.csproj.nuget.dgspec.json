@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UnityHub\\Noodles\\Parameter\\Parameter.csproj": {}
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Parameter\\Parameter.csproj": {}
   },
   "projects": {
-    "D:\\UnityHub\\Noodles\\Parameter\\Parameter.csproj": {
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Parameter\\Parameter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UnityHub\\Noodles\\Parameter\\Parameter.csproj",
+        "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Parameter\\Parameter.csproj",
         "projectName": "Parameter",
-        "projectPath": "D:\\UnityHub\\Noodles\\Parameter\\Parameter.csproj",
+        "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Parameter\\Parameter.csproj",
         "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-        "outputPath": "D:\\UnityHub\\Noodles\\Parameter\\obj\\",
+        "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Parameter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

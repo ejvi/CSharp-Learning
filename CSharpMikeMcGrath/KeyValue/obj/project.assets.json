@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UnityHub\\Noodles\\KeyValue\\KeyValue.csproj",
+      "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\KeyValue\\KeyValue.csproj",
       "projectName": "KeyValue",
-      "projectPath": "D:\\UnityHub\\Noodles\\KeyValue\\KeyValue.csproj",
+      "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\KeyValue\\KeyValue.csproj",
       "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-      "outputPath": "D:\\UnityHub\\Noodles\\KeyValue\\obj\\",
+      "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\KeyValue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

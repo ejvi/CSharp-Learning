@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UnityHub\\Noodles\\Switch\\Switch.csproj": {}
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Switch\\Switch.csproj": {}
   },
   "projects": {
-    "D:\\UnityHub\\Noodles\\Switch\\Switch.csproj": {
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Switch\\Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UnityHub\\Noodles\\Switch\\Switch.csproj",
+        "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Switch\\Switch.csproj",
         "projectName": "Switch",
-        "projectPath": "D:\\UnityHub\\Noodles\\Switch\\Switch.csproj",
+        "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Switch\\Switch.csproj",
         "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-        "outputPath": "D:\\UnityHub\\Noodles\\Switch\\obj\\",
+        "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Switch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

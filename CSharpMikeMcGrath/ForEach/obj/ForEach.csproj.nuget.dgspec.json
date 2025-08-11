@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UnityHub\\Noodles\\ForEach\\ForEach.csproj": {}
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForEach\\ForEach.csproj": {}
   },
   "projects": {
-    "D:\\UnityHub\\Noodles\\ForEach\\ForEach.csproj": {
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForEach\\ForEach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UnityHub\\Noodles\\ForEach\\ForEach.csproj",
+        "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForEach\\ForEach.csproj",
         "projectName": "ForEach",
-        "projectPath": "D:\\UnityHub\\Noodles\\ForEach\\ForEach.csproj",
+        "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForEach\\ForEach.csproj",
         "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-        "outputPath": "D:\\UnityHub\\Noodles\\ForEach\\obj\\",
+        "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForEach\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

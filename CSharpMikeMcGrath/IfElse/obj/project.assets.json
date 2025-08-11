@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UnityHub\\Noodles\\IfElse\\IfElse.csproj",
+      "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\IfElse\\IfElse.csproj",
       "projectName": "IfElse",
-      "projectPath": "D:\\UnityHub\\Noodles\\IfElse\\IfElse.csproj",
+      "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\IfElse\\IfElse.csproj",
       "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-      "outputPath": "D:\\UnityHub\\Noodles\\IfElse\\obj\\",
+      "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\IfElse\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

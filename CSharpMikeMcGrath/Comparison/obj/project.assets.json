@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UnityHub\\Noodles\\Comparison\\Comparison.csproj",
+      "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Comparison\\Comparison.csproj",
       "projectName": "Comparison",
-      "projectPath": "D:\\UnityHub\\Noodles\\Comparison\\Comparison.csproj",
+      "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Comparison\\Comparison.csproj",
       "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-      "outputPath": "D:\\UnityHub\\Noodles\\Comparison\\obj\\",
+      "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Comparison\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

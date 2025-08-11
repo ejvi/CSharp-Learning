@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UnityHub\\Noodles\\Overload\\Overload.csproj": {}
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Overload\\Overload.csproj": {}
   },
   "projects": {
-    "D:\\UnityHub\\Noodles\\Overload\\Overload.csproj": {
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Overload\\Overload.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UnityHub\\Noodles\\Overload\\Overload.csproj",
+        "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Overload\\Overload.csproj",
         "projectName": "Overload",
-        "projectPath": "D:\\UnityHub\\Noodles\\Overload\\Overload.csproj",
+        "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Overload\\Overload.csproj",
         "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-        "outputPath": "D:\\UnityHub\\Noodles\\Overload\\obj\\",
+        "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Overload\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

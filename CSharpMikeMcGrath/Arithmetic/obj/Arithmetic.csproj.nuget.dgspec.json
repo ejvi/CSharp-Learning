@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UnityHub\\Noodles\\Arithmetic\\Arithmetic.csproj": {}
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arithmetic\\Arithmetic.csproj": {}
   },
   "projects": {
-    "D:\\UnityHub\\Noodles\\Arithmetic\\Arithmetic.csproj": {
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arithmetic\\Arithmetic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UnityHub\\Noodles\\Arithmetic\\Arithmetic.csproj",
+        "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arithmetic\\Arithmetic.csproj",
         "projectName": "Arithmetic",
-        "projectPath": "D:\\UnityHub\\Noodles\\Arithmetic\\Arithmetic.csproj",
+        "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arithmetic\\Arithmetic.csproj",
         "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-        "outputPath": "D:\\UnityHub\\Noodles\\Arithmetic\\obj\\",
+        "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Arithmetic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UnityHub\\Noodles\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "D:\\UnityHub\\Noodles\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-      "outputPath": "D:\\UnityHub\\Noodles\\HelloWorld\\obj\\",
+      "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

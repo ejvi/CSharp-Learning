@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UnityHub\\Noodles\\Logic\\Logic.csproj": {}
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Logic\\Logic.csproj": {}
   },
   "projects": {
-    "D:\\UnityHub\\Noodles\\Logic\\Logic.csproj": {
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UnityHub\\Noodles\\Logic\\Logic.csproj",
+        "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "D:\\UnityHub\\Noodles\\Logic\\Logic.csproj",
+        "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Logic\\Logic.csproj",
         "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-        "outputPath": "D:\\UnityHub\\Noodles\\Logic\\obj\\",
+        "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

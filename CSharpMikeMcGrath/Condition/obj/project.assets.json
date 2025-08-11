@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UnityHub\\Noodles\\Condition\\Condition.csproj",
+      "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Condition\\Condition.csproj",
       "projectName": "Condition",
-      "projectPath": "D:\\UnityHub\\Noodles\\Condition\\Condition.csproj",
+      "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Condition\\Condition.csproj",
       "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-      "outputPath": "D:\\UnityHub\\Noodles\\Condition\\obj\\",
+      "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\Condition\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"

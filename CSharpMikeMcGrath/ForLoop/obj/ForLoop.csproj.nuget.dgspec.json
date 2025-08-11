@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UnityHub\\Noodles\\ForLoop\\ForLoop.csproj": {}
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForLoop\\ForLoop.csproj": {}
   },
   "projects": {
-    "D:\\UnityHub\\Noodles\\ForLoop\\ForLoop.csproj": {
+    "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForLoop\\ForLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UnityHub\\Noodles\\ForLoop\\ForLoop.csproj",
+        "projectUniqueName": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForLoop\\ForLoop.csproj",
         "projectName": "ForLoop",
-        "projectPath": "D:\\UnityHub\\Noodles\\ForLoop\\ForLoop.csproj",
+        "projectPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForLoop\\ForLoop.csproj",
         "packagesPath": "C:\\Users\\ejvi\\.nuget\\packages\\",
-        "outputPath": "D:\\UnityHub\\Noodles\\ForLoop\\obj\\",
+        "outputPath": "D:\\Git\\CSharp-Learning\\CSharpMikeMcGrath\\ForLoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ejvi\\AppData\\Roaming\\NuGet\\NuGet.Config"
