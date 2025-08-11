@@ -60,3 +60,4 @@ Tracking the progress of my C# learning journey.
 Small Projects
 - [x] Random Number Generator
 - [x] Miles To Km Converter
+- [x] Calculator

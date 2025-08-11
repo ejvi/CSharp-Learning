@@ -1,0 +1,15 @@
+D:\Git\CSharp-Learning\Small Projects\Calculator\bin\Debug\net9.0\Calculator.exe
+D:\Git\CSharp-Learning\Small Projects\Calculator\bin\Debug\net9.0\Calculator.deps.json
+D:\Git\CSharp-Learning\Small Projects\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+D:\Git\CSharp-Learning\Small Projects\Calculator\bin\Debug\net9.0\Calculator.dll
+D:\Git\CSharp-Learning\Small Projects\Calculator\bin\Debug\net9.0\Calculator.pdb
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\Calculator.dll
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\Calculator.pdb
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+D:\Git\CSharp-Learning\Small Projects\Calculator\obj\Debug\net9.0\ref\Calculator.dll
