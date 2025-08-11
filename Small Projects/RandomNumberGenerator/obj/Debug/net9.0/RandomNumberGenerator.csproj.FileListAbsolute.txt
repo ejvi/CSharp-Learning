@@ -1,0 +1,15 @@
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\bin\Debug\net9.0\RandomNumberGenerator.exe
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\bin\Debug\net9.0\RandomNumberGenerator.deps.json
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\bin\Debug\net9.0\RandomNumberGenerator.runtimeconfig.json
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\bin\Debug\net9.0\RandomNumberGenerator.dll
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\bin\Debug\net9.0\RandomNumberGenerator.pdb
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\RandomNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\RandomNumberGenerator.AssemblyInfoInputs.cache
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\RandomNumberGenerator.AssemblyInfo.cs
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\RandomNumberGenerator.sourcelink.json
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\RandomNumberGenerator.dll
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\refint\RandomNumberGenerator.dll
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\RandomNumberGenerator.pdb
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\RandomNumberGenerator.genruntimeconfig.cache
+D:\Git\CSharp-Learning\Small Projects\RandomNumberGenerator\obj\Debug\net9.0\ref\RandomNumberGenerator.dll
