@@ -1,0 +1,15 @@
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\bin\Debug\net9.0\MilesToKmConverter.exe
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\bin\Debug\net9.0\MilesToKmConverter.deps.json
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\bin\Debug\net9.0\MilesToKmConverter.runtimeconfig.json
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\bin\Debug\net9.0\MilesToKmConverter.dll
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\bin\Debug\net9.0\MilesToKmConverter.pdb
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\MilesToKmConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\MilesToKmConverter.AssemblyInfoInputs.cache
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\MilesToKmConverter.AssemblyInfo.cs
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\MilesToKmConverter.csproj.CoreCompileInputs.cache
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\MilesToKmConverter.sourcelink.json
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\MilesToKmConverter.dll
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\refint\MilesToKmConverter.dll
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\MilesToKmConverter.pdb
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\MilesToKmConverter.genruntimeconfig.cache
+D:\Git\CSharp-Learning\Small Projects\MilesToKmConverter\obj\Debug\net9.0\ref\MilesToKmConverter.dll
