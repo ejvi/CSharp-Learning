@@ -56,3 +56,7 @@ Tracking the progress of my C# learning journey.
 - [x] Enums
 - [x] Files
 - [x] Exceptions
+
+Small Projects
+- [x] Random Number Generator
+- [x] Miles To Km Converter
