@@ -1,3 +1,58 @@
 Tracking the progress of my C# learning journey.
 
 - [x] C# Programming in easy steps, 3rd edition - Mike McGrath
+
+*W3Schools C# Exercises*
+- [x] Syntax
+- [x] Output
+- [x] Comments
+- [x] Variables
+- [x] Constant Variables
+- [x] Display Variables
+- [x] Multiple Variables
+- [x] Identifiers
+- [x] Data Types
+- [x] Type Casting
+- [x] User Input
+- [x] Arithmetic Operators
+- [x] Assignment Operators
+- [x] Comparison Operators
+- [x] Logical Operators
+- [x] Math
+- [x] Strings
+- [x] String Concatenation
+- [x] String Interpolation
+- [x] Access Strings
+- [x] Special Characters
+- [x] Booleans
+- [x] If
+- [x] Else
+- [x] Else if
+- [x] Shorthand if else
+- [x] Switch
+- [x] While Loop
+- [x] For Loop
+- [x] Break and Continue
+- [x] Arrays
+- [x] Array Loops
+- [x] Sort Arrays
+- [x] Multidimensional Arrays
+- [x] Methods
+- [x] Method Parameters
+- [x] Default Parameter
+- [x] Return Values
+- [x] Method Overloading
+- [x] OOP
+- [x] Classes and Objects
+- [x] Multiple Objects
+- [x] Class Members
+- [x] Constructors
+- [x] Access Modifiers
+- [x] Properties
+- [x] Inheritance
+- [x] Polymorphism
+- [x] Abstraction
+- [x] Interface
+- [x] Enums
+- [x] Files
+- [x] Exceptions
