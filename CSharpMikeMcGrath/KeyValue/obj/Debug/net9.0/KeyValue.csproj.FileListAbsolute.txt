@@ -1,0 +1,14 @@
+D:\UnityHub\CSharp\KeyValue\bin\Debug\net9.0\KeyValue.exe
+D:\UnityHub\CSharp\KeyValue\bin\Debug\net9.0\KeyValue.deps.json
+D:\UnityHub\CSharp\KeyValue\bin\Debug\net9.0\KeyValue.runtimeconfig.json
+D:\UnityHub\CSharp\KeyValue\bin\Debug\net9.0\KeyValue.dll
+D:\UnityHub\CSharp\KeyValue\bin\Debug\net9.0\KeyValue.pdb
+D:\UnityHub\CSharp\KeyValue\obj\Debug\net9.0\KeyValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityHub\CSharp\KeyValue\obj\Debug\net9.0\KeyValue.AssemblyInfoInputs.cache
+D:\UnityHub\CSharp\KeyValue\obj\Debug\net9.0\KeyValue.AssemblyInfo.cs
+D:\UnityHub\CSharp\KeyValue\obj\Debug\net9.0\KeyValue.csproj.CoreCompileInputs.cache
+D:\UnityHub\CSharp\KeyValue\obj\Debug\net9.0\KeyValue.dll
+D:\UnityHub\CSharp\KeyValue\obj\Debug\net9.0\refint\KeyValue.dll
+D:\UnityHub\CSharp\KeyValue\obj\Debug\net9.0\KeyValue.pdb
+D:\UnityHub\CSharp\KeyValue\obj\Debug\net9.0\KeyValue.genruntimeconfig.cache
+D:\UnityHub\CSharp\KeyValue\obj\Debug\net9.0\ref\KeyValue.dll

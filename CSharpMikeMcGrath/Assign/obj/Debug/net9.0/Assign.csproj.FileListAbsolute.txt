@@ -1,0 +1,14 @@
+D:\UnityHub\CSharp\Assign\bin\Debug\net9.0\Assign.exe
+D:\UnityHub\CSharp\Assign\bin\Debug\net9.0\Assign.deps.json
+D:\UnityHub\CSharp\Assign\bin\Debug\net9.0\Assign.runtimeconfig.json
+D:\UnityHub\CSharp\Assign\bin\Debug\net9.0\Assign.dll
+D:\UnityHub\CSharp\Assign\bin\Debug\net9.0\Assign.pdb
+D:\UnityHub\CSharp\Assign\obj\Debug\net9.0\Assign.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityHub\CSharp\Assign\obj\Debug\net9.0\Assign.AssemblyInfoInputs.cache
+D:\UnityHub\CSharp\Assign\obj\Debug\net9.0\Assign.AssemblyInfo.cs
+D:\UnityHub\CSharp\Assign\obj\Debug\net9.0\Assign.csproj.CoreCompileInputs.cache
+D:\UnityHub\CSharp\Assign\obj\Debug\net9.0\Assign.dll
+D:\UnityHub\CSharp\Assign\obj\Debug\net9.0\refint\Assign.dll
+D:\UnityHub\CSharp\Assign\obj\Debug\net9.0\Assign.pdb
+D:\UnityHub\CSharp\Assign\obj\Debug\net9.0\Assign.genruntimeconfig.cache
+D:\UnityHub\CSharp\Assign\obj\Debug\net9.0\ref\Assign.dll

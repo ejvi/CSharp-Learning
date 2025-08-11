@@ -1,0 +1,14 @@
+D:\UnityHub\CSharp\ForEach\bin\Debug\net9.0\ForEach.exe
+D:\UnityHub\CSharp\ForEach\bin\Debug\net9.0\ForEach.deps.json
+D:\UnityHub\CSharp\ForEach\bin\Debug\net9.0\ForEach.runtimeconfig.json
+D:\UnityHub\CSharp\ForEach\bin\Debug\net9.0\ForEach.dll
+D:\UnityHub\CSharp\ForEach\bin\Debug\net9.0\ForEach.pdb
+D:\UnityHub\CSharp\ForEach\obj\Debug\net9.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityHub\CSharp\ForEach\obj\Debug\net9.0\ForEach.AssemblyInfoInputs.cache
+D:\UnityHub\CSharp\ForEach\obj\Debug\net9.0\ForEach.AssemblyInfo.cs
+D:\UnityHub\CSharp\ForEach\obj\Debug\net9.0\ForEach.csproj.CoreCompileInputs.cache
+D:\UnityHub\CSharp\ForEach\obj\Debug\net9.0\ForEach.dll
+D:\UnityHub\CSharp\ForEach\obj\Debug\net9.0\refint\ForEach.dll
+D:\UnityHub\CSharp\ForEach\obj\Debug\net9.0\ForEach.pdb
+D:\UnityHub\CSharp\ForEach\obj\Debug\net9.0\ForEach.genruntimeconfig.cache
+D:\UnityHub\CSharp\ForEach\obj\Debug\net9.0\ref\ForEach.dll

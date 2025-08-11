@@ -1,0 +1,14 @@
+D:\UnityHub\CSharp\Arithmetic\bin\Debug\net9.0\Arithmetic.exe
+D:\UnityHub\CSharp\Arithmetic\bin\Debug\net9.0\Arithmetic.deps.json
+D:\UnityHub\CSharp\Arithmetic\bin\Debug\net9.0\Arithmetic.runtimeconfig.json
+D:\UnityHub\CSharp\Arithmetic\bin\Debug\net9.0\Arithmetic.dll
+D:\UnityHub\CSharp\Arithmetic\bin\Debug\net9.0\Arithmetic.pdb
+D:\UnityHub\CSharp\Arithmetic\obj\Debug\net9.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityHub\CSharp\Arithmetic\obj\Debug\net9.0\Arithmetic.AssemblyInfoInputs.cache
+D:\UnityHub\CSharp\Arithmetic\obj\Debug\net9.0\Arithmetic.AssemblyInfo.cs
+D:\UnityHub\CSharp\Arithmetic\obj\Debug\net9.0\Arithmetic.csproj.CoreCompileInputs.cache
+D:\UnityHub\CSharp\Arithmetic\obj\Debug\net9.0\Arithmetic.dll
+D:\UnityHub\CSharp\Arithmetic\obj\Debug\net9.0\refint\Arithmetic.dll
+D:\UnityHub\CSharp\Arithmetic\obj\Debug\net9.0\Arithmetic.pdb
+D:\UnityHub\CSharp\Arithmetic\obj\Debug\net9.0\Arithmetic.genruntimeconfig.cache
+D:\UnityHub\CSharp\Arithmetic\obj\Debug\net9.0\ref\Arithmetic.dll

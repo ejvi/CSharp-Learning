@@ -1,0 +1,14 @@
+D:\UnityHub\CSharp\Conversion\bin\Debug\net9.0\Conversion.exe
+D:\UnityHub\CSharp\Conversion\bin\Debug\net9.0\Conversion.deps.json
+D:\UnityHub\CSharp\Conversion\bin\Debug\net9.0\Conversion.runtimeconfig.json
+D:\UnityHub\CSharp\Conversion\bin\Debug\net9.0\Conversion.dll
+D:\UnityHub\CSharp\Conversion\bin\Debug\net9.0\Conversion.pdb
+D:\UnityHub\CSharp\Conversion\obj\Debug\net9.0\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityHub\CSharp\Conversion\obj\Debug\net9.0\Conversion.AssemblyInfoInputs.cache
+D:\UnityHub\CSharp\Conversion\obj\Debug\net9.0\Conversion.AssemblyInfo.cs
+D:\UnityHub\CSharp\Conversion\obj\Debug\net9.0\Conversion.csproj.CoreCompileInputs.cache
+D:\UnityHub\CSharp\Conversion\obj\Debug\net9.0\Conversion.dll
+D:\UnityHub\CSharp\Conversion\obj\Debug\net9.0\refint\Conversion.dll
+D:\UnityHub\CSharp\Conversion\obj\Debug\net9.0\Conversion.pdb
+D:\UnityHub\CSharp\Conversion\obj\Debug\net9.0\Conversion.genruntimeconfig.cache
+D:\UnityHub\CSharp\Conversion\obj\Debug\net9.0\ref\Conversion.dll

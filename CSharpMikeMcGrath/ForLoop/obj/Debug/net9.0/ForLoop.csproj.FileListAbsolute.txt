@@ -1,0 +1,14 @@
+D:\UnityHub\CSharp\ForLoop\obj\Debug\net9.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityHub\CSharp\ForLoop\obj\Debug\net9.0\ForLoop.AssemblyInfoInputs.cache
+D:\UnityHub\CSharp\ForLoop\obj\Debug\net9.0\ForLoop.AssemblyInfo.cs
+D:\UnityHub\CSharp\ForLoop\obj\Debug\net9.0\ForLoop.csproj.CoreCompileInputs.cache
+D:\UnityHub\CSharp\ForLoop\bin\Debug\net9.0\ForLoop.exe
+D:\UnityHub\CSharp\ForLoop\bin\Debug\net9.0\ForLoop.deps.json
+D:\UnityHub\CSharp\ForLoop\bin\Debug\net9.0\ForLoop.runtimeconfig.json
+D:\UnityHub\CSharp\ForLoop\bin\Debug\net9.0\ForLoop.dll
+D:\UnityHub\CSharp\ForLoop\bin\Debug\net9.0\ForLoop.pdb
+D:\UnityHub\CSharp\ForLoop\obj\Debug\net9.0\ForLoop.dll
+D:\UnityHub\CSharp\ForLoop\obj\Debug\net9.0\refint\ForLoop.dll
+D:\UnityHub\CSharp\ForLoop\obj\Debug\net9.0\ForLoop.pdb
+D:\UnityHub\CSharp\ForLoop\obj\Debug\net9.0\ForLoop.genruntimeconfig.cache
+D:\UnityHub\CSharp\ForLoop\obj\Debug\net9.0\ref\ForLoop.dll

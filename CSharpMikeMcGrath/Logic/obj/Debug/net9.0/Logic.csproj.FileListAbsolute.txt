@@ -1,0 +1,14 @@
+D:\UnityHub\CSharp\Logic\bin\Debug\net9.0\Logic.exe
+D:\UnityHub\CSharp\Logic\bin\Debug\net9.0\Logic.deps.json
+D:\UnityHub\CSharp\Logic\bin\Debug\net9.0\Logic.runtimeconfig.json
+D:\UnityHub\CSharp\Logic\bin\Debug\net9.0\Logic.dll
+D:\UnityHub\CSharp\Logic\bin\Debug\net9.0\Logic.pdb
+D:\UnityHub\CSharp\Logic\obj\Debug\net9.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityHub\CSharp\Logic\obj\Debug\net9.0\Logic.AssemblyInfoInputs.cache
+D:\UnityHub\CSharp\Logic\obj\Debug\net9.0\Logic.AssemblyInfo.cs
+D:\UnityHub\CSharp\Logic\obj\Debug\net9.0\Logic.csproj.CoreCompileInputs.cache
+D:\UnityHub\CSharp\Logic\obj\Debug\net9.0\Logic.dll
+D:\UnityHub\CSharp\Logic\obj\Debug\net9.0\refint\Logic.dll
+D:\UnityHub\CSharp\Logic\obj\Debug\net9.0\Logic.pdb
+D:\UnityHub\CSharp\Logic\obj\Debug\net9.0\Logic.genruntimeconfig.cache
+D:\UnityHub\CSharp\Logic\obj\Debug\net9.0\ref\Logic.dll

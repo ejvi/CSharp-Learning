@@ -1,0 +1,14 @@
+D:\UnityHub\CSharp\Function\bin\Debug\net9.0\Function.exe
+D:\UnityHub\CSharp\Function\bin\Debug\net9.0\Function.deps.json
+D:\UnityHub\CSharp\Function\bin\Debug\net9.0\Function.runtimeconfig.json
+D:\UnityHub\CSharp\Function\bin\Debug\net9.0\Function.dll
+D:\UnityHub\CSharp\Function\bin\Debug\net9.0\Function.pdb
+D:\UnityHub\CSharp\Function\obj\Debug\net9.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityHub\CSharp\Function\obj\Debug\net9.0\Function.AssemblyInfoInputs.cache
+D:\UnityHub\CSharp\Function\obj\Debug\net9.0\Function.AssemblyInfo.cs
+D:\UnityHub\CSharp\Function\obj\Debug\net9.0\Function.csproj.CoreCompileInputs.cache
+D:\UnityHub\CSharp\Function\obj\Debug\net9.0\Function.dll
+D:\UnityHub\CSharp\Function\obj\Debug\net9.0\refint\Function.dll
+D:\UnityHub\CSharp\Function\obj\Debug\net9.0\Function.pdb
+D:\UnityHub\CSharp\Function\obj\Debug\net9.0\Function.genruntimeconfig.cache
+D:\UnityHub\CSharp\Function\obj\Debug\net9.0\ref\Function.dll

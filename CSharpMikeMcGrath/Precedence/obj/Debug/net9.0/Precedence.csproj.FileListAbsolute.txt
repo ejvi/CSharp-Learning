@@ -1,0 +1,14 @@
+D:\UnityHub\CSharp\Precedence\bin\Debug\net9.0\Precedence.exe
+D:\UnityHub\CSharp\Precedence\bin\Debug\net9.0\Precedence.deps.json
+D:\UnityHub\CSharp\Precedence\bin\Debug\net9.0\Precedence.runtimeconfig.json
+D:\UnityHub\CSharp\Precedence\bin\Debug\net9.0\Precedence.dll
+D:\UnityHub\CSharp\Precedence\bin\Debug\net9.0\Precedence.pdb
+D:\UnityHub\CSharp\Precedence\obj\Debug\net9.0\Precedence.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityHub\CSharp\Precedence\obj\Debug\net9.0\Precedence.AssemblyInfoInputs.cache
+D:\UnityHub\CSharp\Precedence\obj\Debug\net9.0\Precedence.AssemblyInfo.cs
+D:\UnityHub\CSharp\Precedence\obj\Debug\net9.0\Precedence.csproj.CoreCompileInputs.cache
+D:\UnityHub\CSharp\Precedence\obj\Debug\net9.0\Precedence.dll
+D:\UnityHub\CSharp\Precedence\obj\Debug\net9.0\refint\Precedence.dll
+D:\UnityHub\CSharp\Precedence\obj\Debug\net9.0\Precedence.pdb
+D:\UnityHub\CSharp\Precedence\obj\Debug\net9.0\Precedence.genruntimeconfig.cache
+D:\UnityHub\CSharp\Precedence\obj\Debug\net9.0\ref\Precedence.dll
