@@ -2,7 +2,7 @@ Tracking the progress of my C# learning journey.
 
 - [x] C# Programming in easy steps, 3rd edition - Mike McGrath
 
-*W3Schools C# Exercises*
+W3Schools C# Exercises
 - [x] Syntax
 - [x] Output
 - [x] Comments
@@ -61,3 +61,12 @@ Small Projects
 - [x] Random Number Generator
 - [x] Miles To Km Converter
 - [x] Calculator
+
+Foundational C# with Microsoft Certification Exam
+- [x] Write Your First Code Using C#
+- [ ] Create and Run Simple C# Console Applications
+- [ ] Add Logic to C# Console Applications
+- [ ] Work with Variable Data in C# Console Applications
+- [ ] Create Methods in C# Console Applications
+- [ ] Debug C# Console Applications
+- [ ] Certification Exam
