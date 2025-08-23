@@ -65,7 +65,7 @@ Small Projects
 Foundational C# with Microsoft Certification Exam
 - [x] Write Your First Code Using C#
 - [x] Create and Run Simple C# Console Applications
-- [ ] Add Logic to C# Console Applications
+- [x] Add Logic to C# Console Applications
 - [ ] Work with Variable Data in C# Console Applications
 - [ ] Create Methods in C# Console Applications
 - [ ] Debug C# Console Applications
