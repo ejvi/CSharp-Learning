@@ -67,6 +67,6 @@ Foundational C# with Microsoft Certification Exam
 - [x] Create and Run Simple C# Console Applications
 - [x] Add Logic to C# Console Applications
 - [x] Work with Variable Data in C# Console Applications
-- [ ] Create Methods in C# Console Applications
-- [ ] Debug C# Console Applications
-- [ ] Certification Exam
+- [x] Create Methods in C# Console Applications
+- [x] Debug C# Console Applications
+- [x] Certification Exam
